@@ -1,7 +1,6 @@
 
-
-  function result=KLdiv(p1,p2)
-
+function result=KLdiv(p1,p2)
+% This returns the KL divergence between two probabilities p1 and p2
  
   
 s=length(p1);
